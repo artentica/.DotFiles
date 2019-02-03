@@ -1,5 +1,7 @@
 [user]
 	email = riouallonvincent@gmail.com
 	name = artentica
+        signingkey = b82fcc754b4ddb11
+
 [core]
 	editor = vim
