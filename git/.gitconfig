@@ -1,7 +1,10 @@
 [user]
 	email = riouallonvincent@gmail.com
 	name = artentica
-        signingkey = b82fcc754b4ddb11
-
+        signingkey = B82FCC754B4DDB11
 [core]
-	editor = vim
+        editor = vim
+[gpg]
+        program = gpg2
+[commit]
+        gpgsign = true
